@@ -35,7 +35,7 @@ html{
     height: 400rem;
     scroll-padding-top: 5rem;
     overflow-x: hidden ;
-    background-image: url(/images/background.jpg);
+    background-image: url(./images/background.jpg);
     background-position: center ;
     
 
